@@ -1,5 +1,6 @@
 # 십이장기 (GeniusJanggi)
 ![image](https://user-images.githubusercontent.com/46212602/95673086-ab553500-0be0-11eb-87e9-704bc6f93c55.png)
+
 ![image](https://user-images.githubusercontent.com/46212602/95672916-7a283500-0bdf-11eb-9600-7ccc409060f6.png)
 
 ## TEAM 튜브탄 펭귄 
